@@ -5,11 +5,11 @@ def sum (first_number, second_number)
   first_number + second_number
 end
 
-def difference 
+def difference (first_number, second_number)
 
 end
 
-def product
+def product 
   
 end
 

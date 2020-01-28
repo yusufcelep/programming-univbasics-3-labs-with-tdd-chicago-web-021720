@@ -9,10 +9,10 @@ def difference (first_number, second_number)
 
 end
 
-def product 
+def product (first_number, second_number)
   
 end
 
-def quotient
+def quotient 
   
 
